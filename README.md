@@ -12,7 +12,7 @@
 
 ## 📊 Executive Summary
 
-As a data analytics consultant engaged by MovieLens—a leading streaming platform with **27,278 movies**, **138,493 active users**, and **20M+ ratings**—I conducted a comprehensive content performance and recommendation accuracy analysis. 
+As a data analytics consultant engaged by MovieLens, a leading streaming platform with **27,278 movies**, **138,493 active users**, and **20M+ ratings**—I conducted a comprehensive content performance and recommendation accuracy analysis. 
 
 **The Challenge**: Inconsistent user engagement, undiscovered high-quality content, and recommendation algorithm gaps were constraining platform growth and user satisfaction.
 
