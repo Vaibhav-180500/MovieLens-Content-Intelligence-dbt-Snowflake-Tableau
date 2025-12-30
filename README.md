@@ -1,6 +1,7 @@
 # 🎬 MovieLens Content Intelligence Platform
 ### *Transforming 20M User Ratings into Strategic Content Decisions*
-
+[![View Interactive Version](https://img.shields.io/badge/🚀_View_Interactive_Version-Click_Here-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://movielens-content-intelligence.netlify.app/)
+---
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/vaibhav.kumar3519)
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#)
 [![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](#)
